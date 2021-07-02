@@ -1,4 +1,6 @@
-## Uga Buga cave man idea data """encryption""" 🐵
+# Monke encryption v1 🌴
+
+### Uga Buga cave man idea data """encryption""" 🐵
 
 ### how to use??? 🦧
 
@@ -16,3 +18,5 @@ decrypt(':)%},=h)iMONKEE:)', 'caveman')
 
 - 1st arg - text to encrypt/decrypt
 - 2nd arg - super secret password (secret) 🙊
+
+### v2 comming soon
