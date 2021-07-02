@@ -27,7 +27,7 @@ function Encrypt(text, password)
         local luckyChars = ''
 
         for j = 1, monkeNumber, 1 do
-            local luckyNr = wrapNumber(secureNr * j + string.byte(text:sub(j + 1, j + 1)), string.len(charMap))
+            local luckyNr = wrapNumber(secureNr * j + string.len(text), string.len(charMap))
             local luckyChar = charMap:sub(luckyNr, luckyNr)
             luckyChars = luckyChars .. luckyChar
         end
