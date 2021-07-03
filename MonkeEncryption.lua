@@ -57,3 +57,5 @@ function Decrypt(text, password)
     end
     return decryptedText
 end
+
+return {encrypt = Encrypt, decrypt = Decrypt}
