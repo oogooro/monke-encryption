@@ -1,6 +1,6 @@
 # Monke encryption v1 🌴
 
-### Uga Buga cave man idea data """encryption""" 🐵
+### Uga Buga cave man brain idea data """encryption""" 🐵
 
 ### how to use??? 🦧
 
