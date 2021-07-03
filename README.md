@@ -4,15 +4,15 @@
 
 ### how to use??? 🦧
 
-encryption 🐒
 ```lua
-Encrypt('can i have a hambwurger pleawse', 'monke') 
--- Output: qcc/a&M:n/kU( 1!eAWiMU3-[% yshk(-Qa:3uv!Ae9`C7:A5?y3<w UaGI sg?he[Ssa(Qc3om,o1`K!b3%wOY9[uAwsrm?g`7A?3w(Ys%Uoe#r-c W/<pIMQUluka({eg!YAc[a<Uw[s7gs5(qeMONKEE:)
-```
+local monke = require 'MonkeEncryption'
 
-decryption 🙉
-```lua
-decrypt(':)%},=h)iMONKEE:)', 'caveman')
+-- encryption 🐒
+monke.encrypt('can i have a hambwurger pleawse', 'monke') 
+-- Output: qcc/a&M:n/kU( 1!eAWiMU3-[% yshk(-Qa:3uv!Ae9`C7:A5?y3<w UaGI sg?he[Ssa(Qc3om,o1`K!b3%wOY9[uAwsrm?g`7A?3w(Ys%Uoe#r-c W/<pIMQUluka({eg!YAc[a<Uw[s7gs5(qeMONKEE:)
+
+-- decryption 🙉
+monke.decrypt(':)%},=h)iMONKEE:)', 'caveman')
 -- Output: hi
 ```
 
